@@ -4,7 +4,7 @@
     padding: 10px 30px;
 }
 button{
-    margin-top: 5px;
+   margin-top: 5px;
    background-color:  rgb(239, 68, 139);
    border-radius: 10px;
    padding: 6px 18px;
@@ -33,10 +33,16 @@ button{
    
 }
 
+/*.....end categories section....*/
+
 .shoes-categories-section{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+/*.....end shoes-categories-section section....*/
+
+
 .card{
     border-style: none;
     box-shadow: 5px 5px 10px lightgray;
@@ -47,6 +53,7 @@ button{
     margin-bottom: 100px;
     background-color: rgb(251,231,231);
     padding: 100px 0px;
+    box-shadow: 5px 5px 10px lightgray;
 }
 .footer-section h1{
     font-size: 35px;
@@ -55,6 +62,5 @@ button{
     color: gray;
     
 }
-.footer-section {
-   
-}
+
+/*.....end footer-section section....*/
