@@ -1,0 +1,60 @@
+.carousel-section{
+    margin-top: 100px;
+    background-color: rgb(254, 234, 233);
+    padding: 10px 30px;
+}
+button{
+    margin-top: 5px;
+   background-color:  rgb(239, 68, 139);
+   border-radius: 10px;
+   padding: 6px 18px;
+   color: aliceblue;
+   border: none;
+   
+}
+
+        /*.....end carousel section....*/
+
+
+.watch-categories{
+    background-color: rgb(241,179,36);
+}
+.bag-categories{
+    background-color: rgb(236,61,131);
+}
+.shoes-categories{
+    background-color: rgb(66,104,255);
+}
+.watch-categories, .bag-categories, .shoes-categories{
+    border-radius: 10px;
+}
+.categories-section{
+   margin-top: 100px;
+   
+}
+
+.shoes-categories-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    border-style: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.footer-section{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: rgb(251,231,231);
+    padding: 100px 0px;
+}
+.footer-section h1{
+    font-size: 35px;
+}
+.footer-section p{
+    color: gray;
+    
+}
+.footer-section {
+   
+}
