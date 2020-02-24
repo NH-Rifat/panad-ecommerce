@@ -14,24 +14,28 @@ button{
 }
 
         /*.....end carousel section....*/
-
+.categories-section{
+    margin-top: 100px;
+}
 
 .watch-categories{
-    background-color: rgb(241,179,36);
+    background-image: linear-gradient(45deg, #ff9e33, #fed01a);
 }
+
 .bag-categories{
-    background-color: rgb(236,61,131);
+    background-image: linear-gradient(45deg, #ff5297, #ff1f77);
 }
 .shoes-categories{
-    background-color: rgb(66,104,255);
+    background-image: linear-gradient(45deg, #4289ff, #3e07f8);
 }
 .watch-categories, .bag-categories, .shoes-categories{
     border-radius: 10px;
+    padding: 10px 5px 10px 25px;
+    
 }
-.categories-section{
-   margin-top: 100px;
-   
-}
+
+
+
 
 /*.....end categories section....*/
 
@@ -64,3 +68,9 @@ button{
 }
 
 /*.....end footer-section section....*/
+
+.copyright p{
+    text-align: center;
+}
+
+/*.....end copyright section....*/
